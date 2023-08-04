@@ -1,4 +1,4 @@
-<div id="SealedSaucer" align="center">
+<div id="Swindl" align="center">
     <h1>Voicecord</h1>
     <p>Make Your Discord Account 24/7 On Voice Channels!</p>
     <a href="https://github.com/SealedSaucer/Voicecord/blob/main/LICENSE"><img src="https://img.shields.io/github/license/SealedSaucer/Voicecord?style=for-the-badge"></a>
